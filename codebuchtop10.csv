@@ -1,0 +1,15 @@
+id,name ,sex,country,section,organisation,position,relation
+Initialien des Teilnehmers,Vor- und Nachname des Teilnehmers ,Geschlecht des Teilnehmers ,Herkunftsland ,"Berufliche Tätigkeitsbranche
+des Teilnehmers ",Name der Organisation,"Position in dem 
+Bilderberg-Meeting ",tn = Teilnehmer
+Regel: ,,m = männlich ,"Mit jeweiligen Kürzel aus Mitgliedertabelle 
+(Bsp. ITA - Italien)",1 = Wirtschaft ,Bsp: Goldman Sachs International,1 = leading position,ar = Aufsichtsrat
+Anfangsbuchstabe Vorname,,w = weiblich ,,2 = Politik,,2 = no leading position,vs = Vorstand
+Anfangsbuchstabe Nachname,,,,3 = Militär,,,ceo = CEO
+Achtung! Bei Dopplung:,,,,4 = Hochadel,,,chr = Chefredakteur
+Ersten zwei Buchstaben Vorname,,,,5 = Medien,,,st = Student
+Erster Buchstabe Nachname,,,,6 = Bildungsinstitution  ,,,ma = verheiratet
+usw.,,,,7 = Geheimdienst,,,gr = Gremium
+,,,,8 = Recht,,,
+,,,,9 = Sozialer Sektor,,,
+,,,,10 = Kunst,,,
