@@ -10,9 +10,6 @@ coch,md,tn,NA,NA
 coch,tl,tn,NA,NA
 coch,zmb,tn,NA,NA
 ch,dp,tn,NA,NA
-mem,bb,tn,NA,NA
-coch,bb,tn,NA,NA
-ch,bb,tn,NA,NA
 ak,asv,ar,2018,2020
 ak,te,vs,2015,2024
 ak,msc,tn,2024,NA
@@ -39,7 +36,7 @@ rs,uoo,st,NA,NA
 rs,hu,st,1986,1989
 rs,aa,ma,1992,2024
 hrk,mjk,ma,1994,2024
-mem,bb,gr,NA,NA
-coch,bb,gr,NA,NA
-ch,bb,gr,NA,NA
+bb,mem,gr,NA,NA
+bb,coch,gr,NA,NA
+bb,ch,gr,NA,NA
 mem,aa,tn,NA,NA
